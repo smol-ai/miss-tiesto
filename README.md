@@ -4,6 +4,7 @@ this project is a single page that has a canvas that tracks mouse movements, and
 
 we need to:
 
+- merge with https://github.com/Djmcflush/RaveFussion (or run together idk)
 - wire up mouse moves to call a backend
 - get an audio thing and start play asap
 
